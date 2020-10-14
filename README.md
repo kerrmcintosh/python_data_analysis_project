@@ -38,5 +38,5 @@ Wrangling and Plotting with Seaborn
 ![Code Highlight](screendumps/presentation_slide.png)
 
 ###### Presentation slide example 2
-![Code Highlight](screendumps/presentation_slide_2.png)
+![Code Highlight](screendumps/presentation_slide2.png)
 
