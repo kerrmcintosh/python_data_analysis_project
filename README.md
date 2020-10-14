@@ -4,7 +4,7 @@
 
 #### Data Analyis for a Scottish Charity
 ###### All reference to the charity has been removed
-Our user description was changed to "jiggers" - the original was not "joggers"!! :-)
+Our user descriptions were changed to "jiggers" - the original was not "joggers"!! :-)
 
 This was a real-life project for a Scottish charity who had given me access to their data to gain an understanding of trends, correlations and project successes/failures, to help with strategic planning.  At the end of the 2-week project, and for which I conducted my work solely in Python, I made a non-technical presentation to the charity and my peers providing visualisation, analysis and insight from my findings.  The charity welcomed the visualisations provided and requested a copy of my presentation.
 
