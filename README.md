@@ -1,6 +1,6 @@
 # Python Data Analysis Project
 
-### Final 2 Week Individual Project (CodeClan Data Analysis Course)
+### 2 Week Individual Project (CodeClan Data Analysis Course Final Project)
 
 #### Data Analyis for a Scottish Charity
 ###### All reference to the charity has been removed
