@@ -17,7 +17,7 @@ I was given a written brief and access to the data.  After fully reading the bri
 
 ###### Highlights
 1) There was a lot of optional and valuable user data which I did not want to loose which I managed to extract and pull in.
-2) I’d done text mining with R but not Python - I reasearched and found NLTK and space packages which I incorporated to return most frequent words ( for teh charity user feedback) with stop words removed.
+2) I had carried out text mining with R but not Python - I reasearched and found NLTK and space packages which I incorporated to return most frequent words ( for the charity user feedback) with stop words removed.
 3) I made use of Panda pivoting and joining techniques, datetime, Matplotlib / Seaborn, Panda Profiling ... and lot's more
 
 ###### Personal code example 1
