@@ -16,25 +16,27 @@ I was given a written brief and access to the data.  After fully reading the bri
 ###### Highlights
 1) There was a lot of optional and valuable user data which I did not want to loose which I managed to extract and pull in.
 2) I’d done text mining with R but not Python - I reasearched and found NLTK and space packages which I incorporated to return most frequent words ( for teh charity user feedback) with stop words removed.
-3) I made use of Panda pivoting and joining techniques, datetime, Matplotlib / Seaborn ... and lot's more
+3) I made use of Panda pivoting and joining techniques, datetime, Matplotlib / Seaborn, Panda Profiling ... and lot's more
 
 ###### Personal code example 1
-The use of dplyr and bind_rows()
+Wrangling & Joining
 ![Code Highlight](screendumps/wrangling_and_joining.png)
 
 ###### Personal code example 2
-ifelse() and pivoting highlights
+Wrangling and Pivoting
 ![Code Highlight](screendumps/wrangling_and_pivoting.png)
 
 ###### Personal code example 3 
+Text Mining and a WordCloud
 ![Code Highlight](screendumps/wordcloud.png)
 
 ###### Personal code example 4
+Wrangling and Plotting with Seaborn
 ![Code Highlight](screendumps/wrangling_and_seaborn_barchart.png)
 
 ###### Presentation slide example 1
 ![Code Highlight](screendumps/presentation_slide.png)
 
 ###### Presentation slide example 2
-![Code Highlight](screendumps/wpresentation_slide_2.png)
+![Code Highlight](screendumps/presentation_slide_2.png)
 
